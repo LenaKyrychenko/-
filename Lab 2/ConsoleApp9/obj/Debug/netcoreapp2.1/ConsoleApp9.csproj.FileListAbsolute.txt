@@ -1,0 +1,10 @@
+D:\ООП\LAB 2 Arrays\ConsoleApp9\bin\Debug\netcoreapp2.1\ConsoleApp9.deps.json
+D:\ООП\LAB 2 Arrays\ConsoleApp9\bin\Debug\netcoreapp2.1\ConsoleApp9.runtimeconfig.json
+D:\ООП\LAB 2 Arrays\ConsoleApp9\bin\Debug\netcoreapp2.1\ConsoleApp9.runtimeconfig.dev.json
+D:\ООП\LAB 2 Arrays\ConsoleApp9\bin\Debug\netcoreapp2.1\ConsoleApp9.dll
+D:\ООП\LAB 2 Arrays\ConsoleApp9\bin\Debug\netcoreapp2.1\ConsoleApp9.pdb
+D:\ООП\LAB 2 Arrays\ConsoleApp9\obj\Debug\netcoreapp2.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\ООП\LAB 2 Arrays\ConsoleApp9\obj\Debug\netcoreapp2.1\ConsoleApp9.AssemblyInfoInputs.cache
+D:\ООП\LAB 2 Arrays\ConsoleApp9\obj\Debug\netcoreapp2.1\ConsoleApp9.AssemblyInfo.cs
+D:\ООП\LAB 2 Arrays\ConsoleApp9\obj\Debug\netcoreapp2.1\ConsoleApp9.dll
+D:\ООП\LAB 2 Arrays\ConsoleApp9\obj\Debug\netcoreapp2.1\ConsoleApp9.pdb
