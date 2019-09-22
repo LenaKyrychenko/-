@@ -1,0 +1,11 @@
+D:\ООП\LAB 2 Arrays\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\ООП\LAB 2 Arrays\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\ООП\LAB 2 Arrays\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\ООП\LAB 2 Arrays\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\ООП\LAB 2 Arrays\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\ООП\LAB 2 Arrays\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
