@@ -1,0 +1,11 @@
+D:\ООП\LAB 3 Defining Classes\Zavd 1\bin\Debug\netcoreapp2.1\Zavd 1.deps.json
+D:\ООП\LAB 3 Defining Classes\Zavd 1\bin\Debug\netcoreapp2.1\Zavd 1.runtimeconfig.json
+D:\ООП\LAB 3 Defining Classes\Zavd 1\bin\Debug\netcoreapp2.1\Zavd 1.runtimeconfig.dev.json
+D:\ООП\LAB 3 Defining Classes\Zavd 1\bin\Debug\netcoreapp2.1\Zavd 1.dll
+D:\ООП\LAB 3 Defining Classes\Zavd 1\bin\Debug\netcoreapp2.1\Zavd 1.pdb
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.csprojAssemblyReference.cache
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.csproj.CoreCompileInputs.cache
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.AssemblyInfoInputs.cache
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.AssemblyInfo.cs
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.dll
+D:\ООП\LAB 3 Defining Classes\Zavd 1\obj\Debug\netcoreapp2.1\Zavd 1.pdb

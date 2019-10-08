@@ -1,0 +1,11 @@
+D:\ООП\LAB 3 Defining Classes\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.deps.json
+D:\ООП\LAB 3 Defining Classes\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.json
+D:\ООП\LAB 3 Defining Classes\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.dev.json
+D:\ООП\LAB 3 Defining Classes\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.dll
+D:\ООП\LAB 3 Defining Classes\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.pdb
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csprojAssemblyReference.cache
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csproj.CoreCompileInputs.cache
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfoInputs.cache
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfo.cs
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.dll
+D:\ООП\LAB 3 Defining Classes\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.pdb
