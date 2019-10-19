@@ -1,0 +1,11 @@
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.csprojAssemblyReference.cache
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.csproj.CoreCompileInputs.cache
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.AssemblyInfoInputs.cache
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.AssemblyInfo.cs
+D:\ООП\SR1\bin\Debug\netcoreapp2.1\SR1.deps.json
+D:\ООП\SR1\bin\Debug\netcoreapp2.1\SR1.runtimeconfig.json
+D:\ООП\SR1\bin\Debug\netcoreapp2.1\SR1.runtimeconfig.dev.json
+D:\ООП\SR1\bin\Debug\netcoreapp2.1\SR1.dll
+D:\ООП\SR1\bin\Debug\netcoreapp2.1\SR1.pdb
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.dll
+D:\ООП\SR1\obj\Debug\netcoreapp2.1\SR1.pdb
